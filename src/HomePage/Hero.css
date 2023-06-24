@@ -1,0 +1,33 @@
+.bg-image-custom{
+background-image: linear-gradient(319deg, #118ab2 0%, #06d6a0 37%, #ffd166 100%);
+}
+
+.bg-img-custom{
+background-image: linear-gradient(319deg, #efd002 0%, #31b74a 37%, #442ce0 100%);
+}
+
+.bg-grad-card {
+    background-color: #7ee8fa;
+    background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
+    
+}
+
+    @media (max-width: 640px){
+
+        .logo-custom{
+            width: 100px;
+        }
+        
+    }
+
+    .bg-btn-custom {
+        background-color: #e056fd;
+background-image: linear-gradient(315deg, #e056fd 0%, #000000 74%);
+    }
+   
+
+
+
+
+
+
